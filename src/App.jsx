@@ -94,57 +94,76 @@ ContentBlockByID(Lookup("MASTER_CONTENT", "emTemplateScriptGeoAndLinks", "emTemp
 %%[ if CATEGORY_V3 == "Beauty / Wellness / Healthcare" then ]%%
 
 <!-- DESKTOP IMAGE 600 px width -->
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-desktop_600x300-HBW-send2-ENG.png" alt="Become a Top Pick for Mother's Day Gifts" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-desktop_600x300-HBW-send1-ENG.png" alt="Offer the Perfect Gift: A Mother’s Day Groupon!" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
 
 <!-- MOBILE IMAGE 480px width -->
 <div class="imghide" style="max-height:0px; font-size:0; display:none; overflow:hidden;">
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-mobile_480x200-HBW-send2-ENG.png" alt="Become a Top Pick for Mother's Day Gifts" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-mobile_480x200-HBW-send1-ENG.png" alt="Offer the Perfect Gift: A Mother’s Day Groupon!" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
 
 
 %%[ elseif CATEGORY_V3 == "Food & Drink" then ]%%
 
 <!-- DESKTOP IMAGE 600 px width -->
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026Header-desktop_600x300-FD-send2-ENG.png" alt="Become a Top Pick for Mother's Day Gifts" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-desktop_600x300-FD-send1-ENG.png" alt="Offer the Perfect Gift: A Mother’s Day Groupon!" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
 
 <!-- MOBILE IMAGE 480px width -->
 <div class="imghide" style="max-height:0px; font-size:0; display:none; overflow:hidden;">
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-mobile_480x200-FD-send2-ENG.png" alt="Become a Top Pick for Mother's Day Gifts" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-mobile_480x200-FD-send1-ENG.png" alt="Offer the Perfect Gift: A Mother’s Day Groupon!" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
 
 
 %%[ elseif CATEGORY_V3 == "Leisure Offers / Activities" then ]%%
 
 <!-- DESKTOP IMAGE 600 px width -->
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-desktop_600x300-TTD-send2-ENG.png" alt="Become a Top Pick for Mother's Day Gifts" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-desktop_600x300-TTD-send1-ENG.png" alt="Offer the Perfect Gift: A Mother’s Day Groupon!" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
 
 <!-- MOBILE IMAGE 480px width -->
 <div class="imghide" style="max-height:0px; font-size:0; display:none; overflow:hidden;">
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-mobile_480x200-TTD-send2-ENG.png" alt="Become a Top Pick for Mother's Day Gifts" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-mobile_480x200-TTD-send1-ENG.png" alt="Offer the Perfect Gift: A Mother’s Day Groupon!" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
 
 
 %%[ else ]%%
 
 <!-- DESKTOP IMAGE 600 px width -->
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-desktop_600x300-Services-send2-ENG.png" alt="Become a Top Pick for Mother's Day Gifts" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-desktop_600x300-Services-send1-ENG.png" alt="Offer the Perfect Gift: A Mother’s Day Groupon!" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
 
 <!-- MOBILE IMAGE 480px width-->
 <div class="imghide" style="max-height:0px; font-size:0; display:none; overflow:hidden;">
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-mobile_480x200-Services-send2-ENG.png" alt="Become a Top Pick for Mother's Day Gifts" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/MDAY2026-Header-mobile_480x200-Services-send1-ENG.png" alt="Offer the Perfect Gift: A Mother’s Day Groupon!" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
 
 %%[ endif ]%%
 </td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" valign="top" style="padding-left:15px; padding-right:15px; padding-top:9px; padding-bottom:9px; font-size:16px; line-height:24px;">
 <div style="text-align:left; font-size:16px; line-height:24px; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#230F33; font-weight:normal;">
 
 
-Mother's Day is on the way! The fastest way to capture more clicks is to add a seasonal, giftable option customers can purchase instantly — so your business stays top-of-mind while gifting intent is highest.
+Mother’s Day is coming on May 10 — and shoppers start browsing early. Create a giftable Groupon now so customers can send an instant gift, and you can unlock added exposure during Mother’s Day promotions.
+
+<br><br>
+  
+%%[ if MERCHANT_TYPE == "New" then ]%% 
+  
+  Launch your first Groupon with a gift-ready offer so you’re eligible for seasonal gifting visibility as demand builds. 
+  
+  %%[ elseif MERCHANT_TYPE == "Inactive" then ]%% 
+  
+  Rejoin with a giftable offer—Mother’s Day is a high-intent moment to restart sales and visibility on Groupon. 
+  
+  %%[ else ]%% 
+  
+ You’re already live — add a premium option or a giftable add-on to boost clicks and revenue per voucher. 
+  
+  %%[ endif ]%%
+
+  
  
   
 </div>
-</td></tr></table></td></tr></table>
+</td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">%%[ if not empty(ACCOUNT_OWNER_NAME) and ACCOUNT_OWNER_NAME != "House Account" and IndexOf(ACCOUNT_OWNER_NAME,"Merchant") == 0 then
+set @cbrShows = "true"
+]%%
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="line-height:18px; padding-left:30px; padding-right:30px; padding-top:15px; padding-bottom:20px;"><div style="display:inline-block; width:100%; word-wrap:break-word; overflow-wrap:break-word;"><table align="center" border="0" cellpadding="0" cellspacing="0"><tr><td align="center"><table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;">
+<a href="%%=RedirectTo(@masterCBR)=%%" alias="Callback_CTA_new" style="color:#ffffff; text-decoration:none;">
 
-<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">%%[ if not empty(ACCOUNT_OWNER_NAME) and ACCOUNT_OWNER_NAME != "House Account" and IndexOf(ACCOUNT_OWNER_NAME,"Merchant") == 0 then ]%%
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="line-height:18px; padding-left:30px; padding-right:30px; padding-top:15px; padding-bottom:20px;"><div style="display:inline-block; width:100%; word-wrap:break-word; overflow-wrap:break-word;"><table align="center" border="0" cellpadding="0" cellspacing="0"><tr><td align="center"><table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;"><a href="%%=RedirectTo(@masterCBR)=%%" alias="Callback_CTA_new" style="color:#ffffff; text-decoration:none;">
-
-Contact your Account Manager
+Book time with your Account Manager
 
 </a></td></tr></table></td></tr></table></div></td></tr></table>
 %%[ else ]%%
@@ -157,8 +176,7 @@ Contact your Account Manager
 <a href="%%=RedirectTo(v(@urlMerchantCenter))=%%" style="color:#ffffff; text-decoration:none;" alias="CTA_OptimizeDeal">
 
 Review and optimise your live deal
-  
-  
+
 </a>
 </td></tr></table>
 %%[ else ]%%
@@ -167,7 +185,7 @@ Review and optimise your live deal
 <table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;">
 <a href="%%=RedirectTo(v(@urlMerchantGetStarted))=%%" style="color:#ffffff; text-decoration:none;" alias="CTA_CreateDeal">
 
-Create your Mother's Day offer
+Build or Edit your Mother's Day Campaign
 
 </a>
 </td></tr></table>
@@ -175,7 +193,7 @@ Create your Mother's Day offer
 <table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;">
 <a href="%%=RedirectTo(v(@urlMerchantCenterBuildCampaign))=%%" style="color:#ffffff; text-decoration:none;" alias="CTA_CreateDeal">
 
-Create your Mother's Day offer
+Build or Edit your Mother's Day Campaign
 
 </a>
 </td></tr></table>
@@ -184,32 +202,94 @@ endif
 endif
 ]%%
 </td></tr></table></div></td></tr></table>
-%%[ endif ]%%</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" valign="top" style="padding-left:15px; padding-right:15px; padding-top:9px; padding-bottom:9px; font-size:16px; line-height:24px;">
-<div style="text-align:left; font-size:16px; line-height:24px; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#230F33; font-weight:normal;">
+%%[ endif ]%%</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">%%[
+var @rows, @rowCount
+if CATEGORY_V3 == "Beauty / Wellness / Healthcare" or CATEGORY_V3 == "Food & Drink" or CATEGORY_V3 == "Leisure Offers / Activities" then
+  set @rows = LookupRows("IMC_MothersDay2026_TopDeals", "CATEGORY_V3", CATEGORY_V3, "templateGeoLang", @templateGeoLang)
+  set @rowCount = RowCount(@rows)
+else
+  set @rows = LookupRows("IMC_MothersDay2026_TopDeals", "CATEGORY_V3", "SERVICES/H&A/General", "templateGeoLang", @templateGeoLang)
+  set @rowCount = RowCount(@rows)
+endif
+]%%
+%%[ if @rowCount > 0 then ]%%
 
-
-See how our campaign's reach helped partners connect with a massive audience of gift-givers last year, keeping their offers front-and-center when it mattered most. 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" valign="top" style="padding-left:15px; padding-right:15px; padding-top:9px; padding-bottom:15x; font-size:16px; line-height:24px;"><div style="text-align:left; font-size:16px; line-height:24px; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#230F33; font-weight:normal;">
   
+Here are some top-performing examples from a similar businesses on Groupon, to help inspire your own Mother's Day offer:  
+<br>
+
+<ul style="margin:0px; padding-left:25px;">
+
+%%[
+var @fila, @MERCHANT, @DEAL_URL, @UNITS_SOLD
+for @i = 1 to @rowCount do
+  set @fila = Row(@rows, @i)
+  set @MERCHANT = Field(@fila, "ACCOUNT_NAME")
+  set @DEAL_URL = Field(@fila, "DEAL_URL")
+  set @UNITS_SOLD = Field(@fila, "UNITS_SOLD")
+]%%
+
+<li style="padding-top:9px;">
+  <strong><a href="%%=RedirectTo(v(@DEAL_URL))=%%" style="color:#008A22; text-decoration:none; font-weight:bold;">%%=v(@MERCHANT)=%%</a></strong> - Sold %%=v(@UNITS_SOLD)=%% vouchers.
+</li>
+
+%%[ next @i ]%%
+</ul>
+
 </div>
-</td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:600px;" width="600">
+</td></tr></table>
+
+%%[ endif ]%%</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:600px;" width="600">
 <tr><td align="center" valign="top" style="padding-top:20px; padding-bottom:20px;">
 
 
+%%[ if CATEGORY_V3 == "Beauty / Wellness / Healthcare" then ]%%
+
 <!-- DESKTOP IMAGE 600 px width -->
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/Stats-banner-desktop_600x280-.png" alt="Last Mother's Day on Groupon Banner" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/600x260-MD2026-quick+win+tips+banner+HBW.png" alt="Quick Win Tips" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
 
 <!-- MOBILE IMAGE 480px width -->
 <div class="imghide" style="max-height:0px; font-size:0; display:none; overflow:hidden;">
-<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/Stats-banner-mobile_480x200-white.png" alt="Last Mother's Day on Groupon Banner" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/480x260-MD2026-quick+win+tips+banner+HBW.png" alt="Quick Win Tips" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
 
 
-</td></tr></table>
+%%[ elseif CATEGORY_V3 == "Food & Drink" then ]%%
+
+<!-- DESKTOP IMAGE 600 px width -->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/600x260-MD2026-quick+win+tips+banner+FD.png" alt="Quick Win Tips" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
+
+<!-- MOBILE IMAGE 480px width -->
+<div class="imghide" style="max-height:0px; font-size:0; display:none; overflow:hidden;">
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/480x260-MD2026-quick+wins+banner+FD.png" alt="Quick Win Tips" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
 
 
-</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">%%[ if not empty(ACCOUNT_OWNER_NAME) and ACCOUNT_OWNER_NAME != "House Account" and IndexOf(ACCOUNT_OWNER_NAME,"Merchant") == 0 then ]%%
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="line-height:18px; padding-left:30px; padding-right:30px; padding-top:15px; padding-bottom:20px;"><div style="display:inline-block; width:100%; word-wrap:break-word; overflow-wrap:break-word;"><table align="center" border="0" cellpadding="0" cellspacing="0"><tr><td align="center"><table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;"><a href="%%=RedirectTo(@masterCBR)=%%" alias="Callback_CTA_new" style="color:#ffffff; text-decoration:none;">
+%%[ elseif CATEGORY_V3 == "Leisure Offers / Activities" then ]%%
 
-Consult your Account Manager
+<!-- DESKTOP IMAGE 600 px width -->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/600x260-MD2026-quick+win+tips+banner+TTD.png" alt="Quick Win Tips" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
+
+<!-- MOBILE IMAGE 480px width -->
+<div class="imghide" style="max-height:0px; font-size:0; display:none; overflow:hidden;">
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/480x260-MD2026-quick+win+tips+banner+TTD.png" alt="Quick Win Tips" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
+
+
+%%[ else ]%%
+
+<!-- DESKTOP IMAGE 600 px width -->
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/600x260-MD2026-quick+win+tips+banner+Else.png" alt="Quick Win Tips" border="0" class="em_img em_hide" style="display:block; border-radius:10px;" width="600"><!--[if !mso]><!-->
+
+<!-- MOBILE IMAGE 480px width-->
+<div class="imghide" style="max-height:0px; font-size:0; display:none; overflow:hidden;">
+<img src="https://image.mc.groupon.com/lib/fe3e157075640475711070/m/1/480x275-MD2026-quick+win+tips+banner+Else.png" alt="Quick Win Tips" border="0" class="imghide em_img em_center" height="0" width="0" style="border-radius:10px;"></div><!--<![endif]-->
+
+%%[ endif ]%%
+</td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">%%[ if not empty(ACCOUNT_OWNER_NAME) and ACCOUNT_OWNER_NAME != "House Account" and IndexOf(ACCOUNT_OWNER_NAME,"Merchant") == 0 then ]%%
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="line-height:18px; padding-left:30px; padding-right:30px; padding-top:15px; padding-bottom:20px;"><div style="display:inline-block; width:100%; word-wrap:break-word; overflow-wrap:break-word;"><table align="center" border="0" cellpadding="0" cellspacing="0"><tr><td align="center"><table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;">
+<a href="%%=RedirectTo(@masterCBR)=%%" alias="Callback_CTA_new" style="color:#ffffff; text-decoration:none;">
+
+Contact Your Account Manager
+
 
 </a></td></tr></table></td></tr></table></div></td></tr></table>
 %%[ else ]%%
@@ -221,7 +301,7 @@ Consult your Account Manager
 <table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;">
 <a href="%%=RedirectTo(v(@urlMerchantCenter))=%%" style="color:#ffffff; text-decoration:none;" alias="CTA_OptimizeDeal">
 
-Optimize your Mother's Day deal 
+Optimize Your Mother’s Day Deal 
 
 </a>
 </td></tr></table>
@@ -231,7 +311,7 @@ Optimize your Mother's Day deal
 <table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;">
 <a href="%%=RedirectTo(v(@urlMerchantGetStarted))=%%" style="color:#ffffff; text-decoration:none;" alias="CTA_CreateDeal">
 
-Launch your Mother's Day deal 
+Launch Your Mother’s Day Deal 
 
 </a>
 </td></tr></table>
@@ -239,7 +319,7 @@ Launch your Mother's Day deal
 <table border="0" cellpadding="20" cellspacing="0"><tr><td align="center" bgcolor="#008A22" style="font-size:18px; line-height:26px; font-weight:bold; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; padding:12px 35px; border-radius:25px; border-style:none;">
 <a href="%%=RedirectTo(v(@urlMerchantCenterBuildCampaign))=%%" style="color:#ffffff; text-decoration:none;" alias="CTA_CreateDeal">
 
-Launch your Mother's Day deal 
+Launch Your Mother’s Day Deal 
 
 </a>
 </td></tr></table>
@@ -251,20 +331,11 @@ endif
 %%[ endif ]%%</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" valign="top" style="padding-left:15px; padding-right:15px; padding-top:9px; padding-bottom:15px; font-size:16px; line-height:24px;">
 <div style="text-align:left; font-size:16px; line-height:24px; font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; color:#230F33; font-weight:normal;">
 
-The businesses that win seasonal moments keep their offers fresh—make your Mother's Day update today.
+Launch early so you’re ready when Mother’s Day gifting searches spike in your market.
 
- <br><br>
-
+<br><br>  
   Best,
   <br>Your Groupon Team  
-</div>
-</td></tr></table>
-
- <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" valign="top" style="padding-left:15px; padding-right:15px; padding-top:4px; padding-bottom:9px; font-size:10px; line-height:16px;">
-<div style="text-align:left; font-size:10px; line-height:16px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; color:#230F33; font-weight:normal;">
-
-* Groupon internal data
-
 </div>
 </td></tr></table></td></tr></table>
 <!-- / -->
